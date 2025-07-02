@@ -2,15 +2,16 @@ using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
 namespace DemoMVc.Controllers
 {
-    public class HelloWorldController : Controller
+    public class EmployeeController : Controller
     { 
          public IActionResult Index()
         {
             return View();
         } 
+        
         public string Welcome()
         {
-            return "This is my default action...";
+            return "Wecome my PC";
         } 
         
     }

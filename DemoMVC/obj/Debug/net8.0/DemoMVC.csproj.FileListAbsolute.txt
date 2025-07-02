@@ -29,3 +29,34 @@ C:\web\web\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\refint\DemoMVC.
 C:\web\web\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.pdb
 C:\web\web\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.genruntimeconfig.cache
 C:\web\web\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\ref\DemoMVC.dll
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\appsettings.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\DemoMVC.staticwebassets.runtime.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\DemoMVC.exe
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\DemoMVC.deps.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\DemoMVC.runtimeconfig.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\DemoMVC.dll
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\DemoMVC.pdb
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.AssemblyInfoInputs.cache
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.AssemblyInfo.cs
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.csproj.CoreCompileInputs.cache
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.RazorAssemblyInfo.cache
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.RazorAssemblyInfo.cs
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.sourcelink.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.DemoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.DemoMVC.props
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DemoMVC.props
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DemoMVC.props
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\scopedcss\bundle\DemoMVC.styles.css
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\scopedcss\projectbundle\DemoMVC.bundle.scp.css
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.dll
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\refint\DemoMVC.dll
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.pdb
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.genruntimeconfig.cache
+D:\New folder\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\ref\DemoMVC.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\web\\web\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
+      "projectUniqueName": "D:\\New folder\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
       "projectName": "DemoMVC",
-      "projectPath": "C:\\web\\web\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
+      "projectPath": "D:\\New folder\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
       "packagesPath": "C:\\Users\\C502USER\\.nuget\\packages\\",
-      "outputPath": "C:\\web\\web\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\obj\\",
+      "outputPath": "D:\\New folder\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\C502USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
