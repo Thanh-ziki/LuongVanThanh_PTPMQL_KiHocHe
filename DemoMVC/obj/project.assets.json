@@ -8018,19 +8018,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\thanh\\.nuget\\packages\\": {}
+    "C:\\Users\\C502USER\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\PTPM\\DemoMVC\\DemoMVC.csproj",
+      "projectUniqueName": "D:\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
       "projectName": "DemoMVC",
-      "projectPath": "E:\\PTPM\\DemoMVC\\DemoMVC.csproj",
-      "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-      "outputPath": "E:\\PTPM\\DemoMVC\\obj\\",
+      "projectPath": "D:\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
+      "packagesPath": "C:\\Users\\C502USER\\.nuget\\packages\\",
+      "outputPath": "D:\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\C502USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -8053,7 +8053,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -8103,7 +8104,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
