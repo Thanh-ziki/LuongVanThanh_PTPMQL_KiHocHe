@@ -46,19 +46,28 @@ namespace DemoMVC.Controllers
         // GET: Emloyee/Create
         public IActionResult Create()
         {
-            var lastEmloyee = _context.Emloyees.OrderByDescending(p => p.EmloyeeId).FirstOrDefault();
-            string newID = "PS0000";
-            if (lastEmloyee != null)
+            // Tải danh sách mã nhân viên ra bộ nhớ, xử lý bằng LINQ thường (C#)
+            var lastNumber = _context.Emloyees
+            .Where(e => e.EmloyeeId.StartsWith("PS") && e.EmloyeeId.Length == 5)
+            .AsEnumerable() // chuyển từ LINQ to SQL -> LINQ to Object
+            .Select(e =>
             {
-                int lastNumber = int.Parse(lastEmloyee.EmloyeeId.Substring(2));
-                newID = "PS" + (lastNumber + 1).ToString("D3");
-            }
-            var Emloyee = new Emloyee
+                bool success = int.TryParse(e.EmloyeeId.Substring(2), out int num);
+                return success ? num : 0;
+            })
+            .DefaultIfEmpty(0)
+            .Max();
+
+            string newID = "PS" + (lastNumber + 1).ToString("D3");
+
+            var emloyee = new Emloyee
             {
-                EmloyeeId = newID,
+                EmloyeeId = newID
             };
-            return View(Emloyee);
-        }
+
+        return View(emloyee);
+}
+
 
         // POST: Emloyee/Create
         // To protect from overposting attacks, enable the specific properties you want to bind to.

@@ -606,3 +606,8 @@ D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\refint\DemoMVC.dll
 D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.pdb
 D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\DemoMVC.genruntimeconfig.cache
 D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\obj\Debug\net8.0\ref\DemoMVC.dll
+D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\Microsoft.Extensions.Localization.dll
+D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\Microsoft.Extensions.Localization.Abstractions.dll
+D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
