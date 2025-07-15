@@ -183,7 +183,7 @@ namespace DemoMVC.Controllers
             if (file != null)
             {
                 string fileExtension = Path.GetExtension(file.FileName);
-                if (fileExtension != ".xls" && fileExtension != ".xls")
+                if (fileExtension != ".xls" && fileExtension != ".xlsx")
                 {
                     ModelState.AddModelError("", "Please choose excel file to upload!");
                 }
