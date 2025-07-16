@@ -25,8 +25,26 @@ build_property.SupportLocalizedComponentNames =
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
 build_property.MSBuildProjectDirectory = D:\LuongVanThanh_PTPMQL_KiHocHe\DemoMVC
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 8.0
-build_property.EnableCodeStyleSeverity = 
+
+[D:/LuongVanThanh_PTPMQL_KiHocHe/DemoMVC/Views/Daily/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LuongVanThanh_PTPMQL_KiHocHe/DemoMVC/Views/Daily/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LuongVanThanh_PTPMQL_KiHocHe/DemoMVC/Views/Daily/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LuongVanThanh_PTPMQL_KiHocHe/DemoMVC/Views/Daily/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LuongVanThanh_PTPMQL_KiHocHe/DemoMVC/Views/Daily/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFpbHlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
 
 [D:/LuongVanThanh_PTPMQL_KiHocHe/DemoMVC/Views/Emloyee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1sb3llZVxDcmVhdGUuY3NodG1s
