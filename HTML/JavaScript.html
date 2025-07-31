@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luong Van thanh</title>
+</head>
+<body>
+    <h1>Luong Van Thanh</h1>
+<p>Here,Bai thuc hanh PTPMQl.</p>
+
+<script>
+function light(sw) {
+  var pic;
+  if (sw == 0) {
+    pic = "Dog.gif"
+  } else {
+    pic = "Stitch.gif"
+  }
+  document.getElementById('Thanh').src = pic;
+}
+</script>
+
+<img id="Thanh" src="Test.gif" width="100" height="180">
+
+<p>
+<button type="button" onclick="light(1)">Light On</button>
+<button type="button" onclick="light(0)">Light Off</button>
+</p>
+</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luong Van Thanh</title>
+    <style>
+        .city {
+        background-color: tomato;
+        color: white;
+        padding: 10px;
+        } 
+    </style>
+</head>
+<body>
+    <h2>Luong Van Thanh</h2>
+<p>class name "city": Nam Dinh</p>
+
+<button onclick="myFunction()">Hide elements</button>
+
+<h2 class="city">HaNoi</h2>
+<p>HaNoi is the capital of VietNam.</p>
+
+<h2 class="city">HoChiMinh</h2>
+<p>HoChiMinh is the capital of VietNam.</p>
+
+<h2 class="city">NamDinh</h2>
+<p>NamDinh is the capital of VietNam.</p>
+
+<script>
+function myFunction() {
+  var x = document.getElementsByClassName("city");
+  for (var i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+}
+</script>
+</body>
+</html>

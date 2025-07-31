@@ -10,11 +10,11 @@
         "projectUniqueName": "D:\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
         "projectName": "DemoMVC",
         "projectPath": "D:\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\DemoMVC.csproj",
-        "packagesPath": "C:\\Users\\C502USER\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
         "outputPath": "D:\\LuongVanThanh_PTPMQL_KiHocHe\\DemoMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\C502USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -99,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.411/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
